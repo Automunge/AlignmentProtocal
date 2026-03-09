@@ -2,6 +2,7 @@
 ## A High-Level Proposal
 
 Nicholas Teague
+
 March 9,2026
 
 ⸻
