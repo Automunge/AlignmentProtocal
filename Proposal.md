@@ -41,7 +41,7 @@ Where
 - The symmetric difference Δ between original statement and reconstruction is evaluated for Drift
 - The set of elements inspected for drift could either be from the statement evaluated in aggregate, for longer passages by tokens/sentences/paragraphs, or by using algorithmic forms of semantic segmentation.
 - Drift between the original and reconstructed statement reflects semantic instability, and can be used to identify specific segments of a statement meriting further attention
-- Drift can either be evaluated by human inspection or using metrics of comparison like eg cosine similarility
+- Drift can either be evaluated by human inspection or using metrics of comparison like eg cosine similarity
 
 If a statement remains stable through this transform–invert cycle, its meaning is likely robust under different policy conventions. If instability appears, the statement may contain ambiguity, implicit assumptions, or conflicts with stakeholder constraints.
 
